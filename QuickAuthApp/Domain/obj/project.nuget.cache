@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNAqY3f9tAIjjcC1al8+fkxP+UbQaUC/JOCh7WQTzIf8IyL6x3SBs8rqgbj8KmYjlPdAx+dsf2xftJKizG6hDQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\QuickAuthApp\\AuthApp\\QuickAuthApp\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a00555078\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\a00555078\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\a00555078\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
